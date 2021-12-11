@@ -1,0 +1,47 @@
+.section {
+    width: 100%;
+    background-color: #2c2c2a;
+}
+.body-inner {
+    width: 1000px;
+    margin: 0 auto;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.container-body {
+    display: flex;
+    text-align: left ;
+    height: 700px;
+    width: 480px;
+    justify-content: center;
+}
+
+.sub-1 {
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sub-2 {
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+.sub-3 {
+    font-size: 15px;
+    margin-bottom: 26px;
+}
+
+.sub-4 {
+    font-size: 15px;
+    margin-bottom: 26px;
+}
+.sub-5 {
+    margin-bottom: 26px;
+}
+
+.img-right {
+    position: absolute;
+    top: auto;
+    right: 500px;
+    z-index: 1;  
+}

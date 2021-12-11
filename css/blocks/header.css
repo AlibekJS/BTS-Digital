@@ -1,0 +1,60 @@
+.header {
+    width: 2004px;
+}
+.header-inner {
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-bottom: 1px solid #000;
+     width: 1200px;
+     margin: 0 auto;
+     height: 76.6px;  
+}
+.header-row {
+    display: flex;
+}
+.nav ul {
+    display: flex;
+}
+.nav li {
+    margin-right: 40px;
+}
+
+.header-logo {
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+.nav {
+    margin-top: 10px;
+    padding-left: 70px;
+    text-decoration: none;
+}
+.nav-link {
+    text-decoration: none;
+}
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.languages {
+    padding-left: 300px;
+}
+
+.languages ul {
+    display: flex;
+}
+
+.languages li {
+    padding: 8px;
+}
+.languages-link {
+    text-decoration: none;
+}
+.languages-link:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 180px;
+}
+
